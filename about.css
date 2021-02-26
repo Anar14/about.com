@@ -1,0 +1,32 @@
+.title{
+    font-family: 'Crimson Text', serif;
+    text-align: center;
+    color:#7F1414;
+    font-style: bold;
+}
+.first{
+    display:flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    width:100%;
+    height:200px;
+    background-color: aliceblue;
+    border-radius: 20px;
+    align-items: center;
+}
+.first img{
+    width:9%;
+    height:90%;
+    margin-left: 15px;
+    align-items: center;
+    border-radius: 15px;
+}
+.first h6{
+    width:81%;
+    flex-grow: 1;
+    color: #775B17 ;
+    font-family: 'Crimson Text', serif;
+    font-size: 20px;
+    background-color:#f2f2f2;
+    padding:30px;
+}
